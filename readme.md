@@ -64,7 +64,7 @@ Documents are stored as key–value pairs:
 ```./build.sh```
 
 ## Run
-```./db```
+```./pdb```
 
 ## Example Session
 
