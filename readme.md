@@ -10,14 +10,14 @@ The project implements a custom database engine with collections, documents, per
 
 - 📦 **Document-based storage** (schema-less data model)
 - 🗂 **Multiple collections**
-- 🆔 Auto-generated document IDs
-- 💾 Binary disk persistence (`.pdb` database file)
-- 🔎 Query support:
+- 🆔 **Auto-generated document IDs**
+- 💾 **Binary disk persistence** (`.pdb` database file)
+- 🔎 **Query support:**
   - `select` (all documents)
   - `select <id>` (single document)
   - `Update <id>` documents by ID
   - `Delete <id>` documents by ID
-- 🖥 Interactive database shell
+- 🖥 **Interactive database shell**
 
 ---
 
